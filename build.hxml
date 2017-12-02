@@ -1,0 +1,11 @@
+-main Web3CmdMain
+-js cmd.js
+
+-lib hxnodejs:4.0.9
+
+-cp src
+-cp lib/web3/src
+-cp lib/BN/src
+-cp lib/providerengine/src
+
+-cp lib/ethjs/src
